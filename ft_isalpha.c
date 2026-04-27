@@ -1,6 +1,9 @@
-int		ft_isalpha(int	c)
+int	ft_isalpha(int c)
 {
-	if (c == 
-int		main(void)
-{
+	int	state;
+	
+	state = 0
+	if ((c >= a && c <= z) || (c >= A && c <= Z))	
+		state = c;
+	return(state);
 }
